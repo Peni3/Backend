@@ -1,0 +1,10 @@
+
+						Státuszkód 			Működik(Igen/Nem)
+GET /   					200				Igen
+GET /api/konyvtar				200				Igen
+GET /api/konyvek				200				Igen
+GET /api/konyvek/2				200				Igen
+GET /api/konyvek/99				404				Igen
+GET /api/nyitvatartas				200				Igen
+GET /info.html					200				Igen
+GET /api/valami					404				Igen
